@@ -97,7 +97,7 @@ text: desc,
 contextInfo: {
 externalAdReply: {
 title: "ᴍᴀʟᴠɪɴ-xᴅ 𝕮𝖔𝖓𝖓𝖊𝖈𝖙𝖊𝖉",
-thumbnailUrl: "https://files.catbox.moe/bqs70b.jpg",
+thumbnailUrl: "https://files.catbox.moe/1dpqqm.jpg",
 sourceUrl: "https://whatsapp.com/channel/0029Vb5e33h96H4QYhiGIQ2V",
 mediaType: 1,
 renderLargerThumbnail: true
