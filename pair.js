@@ -138,7 +138,7 @@ Stay cool and hack.👈`;
 text: desc,
 contextInfo: {
 externalAdReply: {
-title: "ᴍᴀʟᴠɪɴ-xᴅ",
+title: "SKIDDYBMX",
 thumbnailUrl: "https://i.imgur.com/GVW7aoD.jpeg",
 sourceUrl: "https://whatsapp.com/channel/0029Vb5e33h96H4QYhiGIQ2V",
 mediaType: 2,
