@@ -74,7 +74,7 @@ var randomItem = selectRandomItem(items);
                         let code = await sock.sendMessage(sock.user.id, { text: md });
                         let desc = `*Hey there, TECH User!* 👋🏻
 
-Thanks for using *IT-TECH-BRO-S* — your session has been successfully created!
+Thanks for using *RAHEEM-XMD-2 * — your session has been successfully created!
 
 🔐 *Session ID:* Sent above  
 ⚠️ *Keep it safe!* Do NOT share this ID with anyone.
@@ -83,22 +83,22 @@ Thanks for using *IT-TECH-BRO-S* — your session has been successfully created!
 
 *✅ Stay Updated:*  
 Join our official WhatsApp Channel:  
-https://whatsapp.com/channel/0029Vb5e33h96H4QYhiGIQ2V
+https://whatsapp.com/channel/0029VbAffhD2ZjChG9DX922r
 
 *💻 Source Code:*  
-Fork & explore the project on GitHub:  https://github.com/techbroh/IT-TECH-BRO-S-
+Fork & explore the project on GitHub:  https://github.com/Raheem-cm/RAHEEM-XMD-2 
 
 ——————
 
-> *© Powered by tech*
+> *© Powered by raheem*
 Stay cool and hack . 👈`;
                         await sock.sendMessage(sock.user.id, {
 text: desc,
 contextInfo: {
 externalAdReply: {
-title: "ᴍᴀʟᴠɪɴ-xᴅ 𝕮𝖔𝖓𝖓𝖊𝖈𝖙𝖊𝖉",
-thumbnailUrl: "https://files.catbox.moe/1dpqqm.jpg",
-sourceUrl: "https://whatsapp.com/channel/0029Vb5e33h96H4QYhiGIQ2V",
+title: "RAHEEM-XMD-2 𝕮𝖔𝖓𝖓𝖊𝖈𝖙ed",
+thumbnailUrl: "https://files.catbox.moe/i8l8y6.mp4",
+sourceUrl: "https://whatsapp.com/channel/0029VbAffhD2ZjChG9DX922r",
 mediaType: 1,
 renderLargerThumbnail: true
 }  
@@ -107,9 +107,9 @@ renderLargerThumbnail: true
 {quoted:code })
                     } catch (e) {
                             let ddd = sock.sendMessage(sock.user.id, { text: e });
-                            let desc = `*Hey there, TECH User!* 👋🏻
+                            let desc = `*Hey there, RAHEEM User!* 👋🏻
 
-Thanks for using *IT-TECH-BRO-S* — your session has been successfully created!
+Thanks for using *RAHEEM-XMD-2* — your session has been successfully created!
 
 🔐 *Session ID:* Sent above  
 ⚠️ *Keep it safe!* Do NOT share this ID with anyone.
@@ -118,21 +118,21 @@ Thanks for using *IT-TECH-BRO-S* — your session has been successfully created!
 
 *✅ Stay Updated:*  
 Join our official WhatsApp Channel
-https://whatsapp.com/channel/0029Vb5e33h96H4QYhiGIQ2V
+https://whatsapp.com/channel/0029VbAffhD2ZjChG9DX922r
 
 *💻 Source Code:*  
 Fork & explore the project on GitHub:  
-https://github.com/loftxmd23/Sir-loft2-https://github.com/techbroh/IT-TECH-BRO-S-
+https://github.com/loftxmd23/Sir-loft2-https://github.com/Raheem-cm/RAHEEM-XMD-2 
 
-> *© Powered by tech*
+> *© Powered by raheem*
 Stay cool and hack .👈*`;
                             await sock.sendMessage(sock.user.id, {
 text: desc,
 contextInfo: {
 externalAdReply: {
-title: "SKIDDYBMX 𝕮𝖔𝖓𝖓𝖊𝖈𝖙𝖊𝖉 ✅  ",
+title: "RAHEEM-XMD-2 𝕮𝖔𝖓𝖓𝖊𝖈𝖙𝖊𝖉 ✅  ",
 thumbnailUrl: "https://files.catbox.moe/bqs70b.jpg",
-sourceUrl: "https://whatsapp.com/channel/0029Vb5e33h96H4QYhiGIQ2V",
+sourceUrl: "https://whatsapp.com/channel/0029VbAffhD2ZjChG9DX922r",
 mediaType: 2,
 renderLargerThumbnail: true,
 showAdAttribution: true
